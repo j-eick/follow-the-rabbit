@@ -1,0 +1,19 @@
+{
+  "name": "follow-the-rabbit",
+  "version": "1.0.0",
+  "description": "just some testing for now",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-eick/follow-the-rabbit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-eick/follow-the-rabbit/issues"
+  },
+  "homepage": "https://github.com/j-eick/follow-the-rabbit#readme"
+}
