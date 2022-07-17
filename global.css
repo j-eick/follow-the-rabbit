@@ -1,15 +1,16 @@
-* {
+* {å
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
 :root {
-  :root {
     --header_nav_top: 1.5rem;
     --header_nav_login: 2rem;
     --header_nav_titles: 2rem;
-  }
+
+    --footer_nav_standard: 1rem;
+    --footer_nav_call-to-action: 2rem;
 }
 
 html {
@@ -17,4 +18,5 @@ html {
 }
 
 body {
+    background-color: beige;
 }
