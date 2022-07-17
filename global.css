@@ -1,1 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
+:root {
+  :root {
+    --header_nav_top: 1.5rem;
+    --header_nav_login: 2rem;
+    --header_nav_titles: 2rem;
+  }
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+}
